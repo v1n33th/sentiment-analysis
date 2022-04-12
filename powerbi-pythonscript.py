@@ -42,4 +42,4 @@ dataset['Sujective_cat'] = subjectivity
 
 plt.hist(dataset['Value.Polarity'])
 plt.title('Distribution of the Polarity')
-plt.show
+plt.show()
